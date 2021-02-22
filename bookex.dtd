@@ -1,0 +1,7 @@
+<!ELEMENT book (title,author,publisher,pubdate,cost)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT publisher (#PCDATA)>
+<!ELEMENT pubdate (#PCDATA)>
+<!ELEMENT cost (#PCDATA)>
+<!ATTLIST cost currency (GHS | USD | EUR | GBP) "GBP">

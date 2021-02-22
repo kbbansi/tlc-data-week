@@ -1,0 +1,9 @@
+<!ELEMENT library (bookTitle, author, callNumber, stock, aisle)>
+<!ELEMENT bookTitle (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT callNumber (subject, authorLastName , publicationDate)>
+<!ELEMENT stock (#PCDATA)>
+<!ELEMENT aisle (#PCDATA)>
+<!ELEMENT subject (#PCDATA)>
+<!ELEMENT authorLastName (#PCDATA)>
+<!ELEMENT publicationDate (#PCDATA)>

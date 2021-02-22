@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE library SYSTEM "libraryex.dtd">
+
+<library>
+    <bookTitle>Harry Potter and The Sorceror's Stone</bookTitle>
+    <author>J.K Rowling</author>
+    <callNumber>
+        <subject>Fiction</subject>
+        <authorLastName>Rowling</authorLastName>
+        <publicationDate>1999</publicationDate>
+    </callNumber>
+    <stock>20</stock>
+    <aisle>7B</aisle>
+</library>
