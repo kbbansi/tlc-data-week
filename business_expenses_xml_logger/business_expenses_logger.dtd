@@ -1,0 +1,8 @@
+<!ELEMENT business_expenses_logger (title,cost,date,recipient,paidVia,transactionID)>
+<!ELEMENT title EMPTY>
+<!ELEMENT cost EMPTY>
+<!ATTLIST cost currency CDATA #REQUIRED>
+<!ELEMENT date EMPTY>
+<!ELEMENT recipient EMPTY>
+<!ELEMENT paidVia EMPTY>
+<!ELEMENT transactionID EMPTY>

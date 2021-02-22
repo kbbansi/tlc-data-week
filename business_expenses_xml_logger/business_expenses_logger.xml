@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE business_expenses_logger SYSTEM "business_expenses_logger.dtd">
 <!-- Question: When do we use an element and an attribute -->
 <business_expenses_logger>
     <title></title>
