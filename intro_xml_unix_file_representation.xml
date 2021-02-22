@@ -1,5 +1,5 @@
 <?xml version ='1.0' ?>
-<!DOCTYPE unixFile SYSTEM "unixFileex.dtd">
+<!DOCTYPE unixFile SYSTEM "./dtds/unixFileex.dtd">
 <unixFile>
     <name>Hello_World</name>
     <type isDirectory="True" inode="2">directory</type>
