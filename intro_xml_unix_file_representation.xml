@@ -1,0 +1,9 @@
+<?xml version ='1.0' ?>
+<!DOCTYPE unixFile SYSTEM "unixFileex.dtd">
+<unixFile>
+    <name>Hello_World</name>
+    <type isDirectory="True" inode="2">directory</type>
+    <size>512</size>
+    <timestamp>Mon Feb 22 2021 15:50:11 GMT+0000</timestamp>
+    <permissions user="7" group="5" others="4"/>
+</unixFile>

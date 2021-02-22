@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Question: When do we use an element and an attribute -->
+<business_expenses_logger>
+    <title></title>
+    <cost currency=""></cost>
+    <date></date>
+    <recipient></recipient>
+    <paidVia></paidVia>
+    <transactionID></transactionID>
+</business_expenses_logger>

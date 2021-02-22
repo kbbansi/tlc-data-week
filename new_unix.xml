@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE unixFile SYSTEM "unixFileex.dtd">
+
+<unixFile>
+    <name></name>
+    <type isDirectory="false" inode="0">file</type>
+    <size></size>
+    <timestamp></timestamp>
+    <permissions user="a" group="a" others="a" />
+</unixFile>

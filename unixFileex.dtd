@@ -1,0 +1,11 @@
+<!ELEMENT unixFile (name,type,size,timestamp,permissions)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT type (#PCDATA)>
+<!ATTLIST type isDirectory NMTOKEN #REQUIRED>
+<!ATTLIST type inode NMTOKEN #REQUIRED>
+<!ELEMENT size (#PCDATA)>
+<!ELEMENT timestamp (#PCDATA)>
+<!ELEMENT permissions EMPTY>
+<!ATTLIST permissions user NMTOKEN #REQUIRED>
+<!ATTLIST permissions group NMTOKEN #REQUIRED>
+<!ATTLIST permissions others NMTOKEN #REQUIRED>
